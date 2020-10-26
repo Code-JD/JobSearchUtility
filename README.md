@@ -1,5 +1,5 @@
 ﻿# JobSearchUtility
-s
+
 # Requirements
 Python
 Pip
